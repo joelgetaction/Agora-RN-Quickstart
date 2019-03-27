@@ -40,7 +40,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>use camera for agora videocall</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string/>
+	<string></string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>use microphone for agora videocall</string>
 	<key>UIAppFonts</key>
